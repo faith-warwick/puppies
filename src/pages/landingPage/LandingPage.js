@@ -15,7 +15,8 @@ const useStyles = makeStyles(theme => ({
   headcard: {
     display: 'flex',
     justifyContent: 'center',
-    width: '90%'
+    width: '90%',
+    flexWrap: 'wrap'
   },
   titleText: {
     textAlign: 'center',
