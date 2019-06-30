@@ -2,7 +2,10 @@ export default {
   palette: {
     type: 'light',
     primary: {
-      main: '#004d66'
+      main: '#81C784'
+    },
+    background: {
+      default: '#757575'
     }
   }
 }
