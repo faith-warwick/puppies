@@ -14,7 +14,6 @@ This react app uses the [Dogs Api](https://dog.ceo/dog-api/) to display images o
 - [React](https://reactjs.org/) - as a user interface library, this app also uses the default configurations from the create-react-app command
 - [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - as a front end single page app router
 - [Material UI](https://material-ui.com/) - as a component library
-- [Axios](https://github.com/axios/axios) - as a frontend HTTP client
 - [Jest](https://facebook.github.io/jest) - as a test runner
 - [@react-testing/library](https://testing-library.com/docs/react-testing-library/intro) - as a DOM testing util
 
